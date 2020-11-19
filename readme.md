@@ -1,9 +1,7 @@
-\* readme.md for git repository 'exercise'  == first version *\
-[ readme.md for git repository 'exercise' == second version ]
+[ readme.md for git repository 'exercise' ]::
 
-<blink>This is only an exercise.</blink> 
+This is only an exercise.  
 If this had been a **real** readme it might have contained something of interest.
-(and definitely wouldn't be using a $@!% blink tag!)
 
 # Easy or not?
 ## Things that aren't easy:
